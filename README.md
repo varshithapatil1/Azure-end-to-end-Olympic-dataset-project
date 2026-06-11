@@ -54,11 +54,6 @@ Olympics project.docx (included in this repository).
 
 🚀 How to Use
 
-Clone this repository:
-
-git clone https://github.com/MrAnirudh05/New-public
-
-
 Explore datasets in CSV format.
 
 Open the project report (Olympics project.docx) for detailed explanation.
